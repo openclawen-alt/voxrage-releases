@@ -1,0 +1,14 @@
+{
+  "build": 115,
+  "native": 2,
+  "zip": "voxrage-web-115.zip",
+  "sha256": "a0b9efaf9a35f0d151f217ceddb80576d1233bd9a4452f4071f3da2f08e0460b",
+  "size": 1007688,
+  "commit": "9c23d4f7f03933a250a266a147b2d83e85fffaad",
+  "apk": "https://github.com/openclawen-alt/voxrage-releases/releases/download/apk-latest/app-debug.apk",
+  "urls": [
+    "https://cdn.jsdelivr.net/gh/openclawen-alt/voxrage-releases@9c23d4f7f03933a250a266a147b2d83e85fffaad/voxrage-web-115.zip",
+    "https://raw.githubusercontent.com/openclawen-alt/voxrage-releases/9c23d4f7f03933a250a266a147b2d83e85fffaad/voxrage-web-115.zip",
+    "https://raw.githubusercontent.com/openclawen-alt/voxrage-releases/bundle/voxrage-web-115.zip"
+  ]
+}
